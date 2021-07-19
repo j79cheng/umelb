@@ -1,0 +1,4 @@
+References
+1.Pressman, Roger (2010). Software Engineering: A Practitioner's Approach. Boston: McGraw Hill. pp. 41–42. ISBN 9780073375977.
+2.Boehm, B.; R. Turner (2004). Balancing Agility and Discipline: A Guide for the Perplexed. Boston, MA: Addison-Wesley. pp. 55–57. ISBN 978-0-321-18612-6.
+3.Mitchell, Ian (2016). Agile Development in Practice. Tamare House. p. 11. ISBN 978-1-908552-49-5.
