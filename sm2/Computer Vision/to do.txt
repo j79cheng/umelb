@@ -1,0 +1,12 @@
+• Assignments 1-3 (20%, weeks 3-10)
+• Implement algorithms, experiment on provided data 
+sets, and answer questions
+• Individual work
+
+• Final project (30%, week 12)
+• Design a method to solve an open-ended computer 
+vision problem, present algorithm and experiments in a 
+written report
+• Work in groups of 2
+
+• Final exam (50%, during exam period)
